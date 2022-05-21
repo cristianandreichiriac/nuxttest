@@ -1,0 +1,37 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\0. My Work - local\\\\Repositories\\\\MyRepo\\\\nuxttest\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_a34133c4"
+  },
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "C:\\\\0. My Work - local\\\\Repositories\\\\MyRepo\\\\nuxttest\\\\pages\\\\fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_587c2ad4"
+  },
+  {
+    "name": "more-fun",
+    "path": "/more-fun",
+    "component": "C:\\\\0. My Work - local\\\\Repositories\\\\MyRepo\\\\nuxttest\\\\pages\\\\more-fun\\\\index.vue",
+    "chunkName": "pages/more-fun/index",
+    "_name": "_18e8c5fc"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id?",
+    "component": "C:\\\\0. My Work - local\\\\Repositories\\\\MyRepo\\\\nuxttest\\\\pages\\\\users\\\\_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_544b87eb"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\0. My Work - local\\\\Repositories\\\\MyRepo\\\\nuxttest\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1d6f20a9"
+  }
+]
