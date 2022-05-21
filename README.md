@@ -1,0 +1,2 @@
+# nuxttest
+Nuxt test
